@@ -21,3 +21,4 @@ const useChartJs = () => {
 
 export default useChartJs;
 
+
